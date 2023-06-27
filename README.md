@@ -1,1 +1,1 @@
-My first readme
+Enough of the internet today
